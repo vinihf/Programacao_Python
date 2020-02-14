@@ -5,10 +5,6 @@
 ### Apresentação
 Este é um repositório **aberto** sobre introdução à programação com Python. Sendo um repositório aberto, sinta-se à vontade para acessá-lo, modificá-lo, adaptá-lo e contribuir para torná-lo um recurso gratuito útil para aqueles que se interessam em aprender programação.
 
-### Materiais das aulas
--  [Introdução](https://docs.google.com/presentation/d/18WYECTrzo05qWkR606WJ7ahDQ8WfQmz2O6IJa2T817o/edit?usp=sharing) - [Exemplos](./introducao/)
-
-
 
 Este trabalho está licenciado com uma Licença [Creative Commons - Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/) 
 
