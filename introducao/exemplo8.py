@@ -4,5 +4,7 @@ nome = input("Informe seu nome:")
 quantidade = int(input("Informe qual é a quantidade de produtos comprados:"))
 #Quando o valor informado é real, precisa-se converter o valor para float
 precoUni = float(input("Informe qual é o preço do produto:"))
+
 precoTotal = quantidade*precoUni
+
 print(f'{nome} comprou {quantidade} produtos por R${precoUni} cada. O total gasto foi de R${precoTotal}')

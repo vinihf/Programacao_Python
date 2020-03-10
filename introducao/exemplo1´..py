@@ -1,0 +1,5 @@
+nome = input("Informe seu nome:")
+idade = input("Informe sua idade:")
+altura = input("Informe sua altura:")
+lugar = input("Informe de onde você vem:")
+print(f'{nome} vem de {lugar} e tem {idade} anos e {altura} de altura.')
